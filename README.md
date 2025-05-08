@@ -1,16 +1,30 @@
-# kalkulator
+Callculator 
+Deskripsi Aplikasi
 
-A new Flutter project.
+Callculator adalah aplikasi kalkulator sederhana berbasis Flutter yang dapat melakukan operasi perhitungan dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian. Aplikasi ini juga memiliki fitur riwayat perhitungan dan profil pengguna.
+Software yang Digunakan
 
-## Getting Started
+Flutter (Dart)
 
-This project is a starting point for a Flutter application.
+Visual Studio Code
 
-A few resources to get you started if this is your first Flutter project:
+GitHub (Untuk version control)
+Cara Instalasi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1.Pastikan Flutter sudah terinstall di perangkat Anda
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2.Clone repo ini git clone https://github.com/hhtgju/kalkulator1/edit/main/README.md
+
+3.Jalankan flutter pub get untuk mengunduh dependensi
+Cara Menjalankan
+
+1.Buka terminal atau command prompt di dalam folder proyek.
+
+2.Jalankan perintah berikut : flutter run
+Demo
+
+https://github.com/user-attachments/assets/74756e44-0ec7-4bf5-81e8-c10d14902678
+
+identitas
+Rizky Al Fathoni Kelas : XI RPL 2 No Absen : 30 Sekolah : SMK N 1 BANTUL
+
